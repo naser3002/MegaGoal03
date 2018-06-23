@@ -14,13 +14,13 @@ To make the learning of English fun, motivating, and success-oriented by way of 
 ## Contents
 * ### WEEK01
   * #### Intro 😁🎉
-    - [ ] Listen and Discuss   _(page 2)_ 👂🏻👨🏻‍🎓
+    - [ ] Listen and Discuss   _(page 2)_
       - **Express** opinion, feeling and preference
-    - [ ] Pair Work   _(page 3)_ 👥
+    - [ ] Pair Work   _(page 3)_
       - **Agree** and **disagree** with other people ideas or opinions.
-    - [ ] Conversation   _(page 4)_ 💭
+    - [ ] Conversation   _(page 4)_
       - Ask for and give *information* and *instructions*.
-    * [ ] Listening - About You   _(page 5)_ 📚
+    * [ ] Listening - About You   _(page 5)_
       - **Listening** for fact, speaker attitude, relationship.
       - **Warning** and **advice**.
         - [*Had better*](https://en.wikipedia.org/wiki/English_modal_verbs#ought) Recycling/using familiar verb forms, prepositions, modifiers, inversion, conditioners.
