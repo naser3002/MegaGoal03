@@ -14,7 +14,7 @@ To make the learning of English fun, motivating, and success-oriented by way of 
 * ### WEEK01
   * #### Intro 😁🎉
     - [ ] 🗣**Express** opinion, feeling and preference **Agree** and **disagree** Ask for and give information and instructions Warning and advice.
-    - [ ] **Had better** Recycling/using familiar verb forms, prepositions, modifiers, inversion, conditioners.
+    - [ ] [**Had better**](https://en.wikipedia.org/wiki/English_modal_verbs#ought) Recycling/using familiar verb forms, prepositions, modifiers, inversion, conditioners.
     - [ ] Listening for fact, speaker attitude, relationship.
     - [ ] Recycling and using familiar stress and intonation patterns.
   * #### Connected by Technology👨🏻‍💻
