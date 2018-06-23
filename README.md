@@ -1,4 +1,5 @@
 # MegaGoal 3, summer class 2018
+> #### Done By Abdulaziz Muhammed Al Bidani
 
 <div align="center">
   <img alt="react-sketchapp" src="http://ancosanvcc.com/wp/wp-content/uploads/2015/12/head-love-learning.png" style="max-height:163px; width:100; height: auto; max-width:100%" />
@@ -13,10 +14,16 @@ To make the learning of English fun, motivating, and success-oriented by way of 
 ## Contents
 * ### WEEK01
   * #### Intro 😁🎉
-    - [ ] 🗣**Express** opinion, feeling and preference **Agree** and **disagree** Ask for and give information and instructions Warning and advice.
-    - [ ] [**Had better**](https://en.wikipedia.org/wiki/English_modal_verbs#ought) Recycling/using familiar verb forms, prepositions, modifiers, inversion, conditioners.
-    - [ ] Listening for fact, speaker attitude, relationship.
-    - [ ] Recycling and using familiar stress and intonation patterns.
+    - [ ] Listen and Discuss   _(page 2)_ 👂🏻👨🏻‍🎓
+      - **Express** opinion, feeling and preference
+    - [ ] Pair Work   _(page 3)_ 👥
+      - **Agree** and **disagree** with other people ideas or opinions.
+    - [ ] Conversation   _(page 4)_ 💭
+      - Ask for and give *information* and *instructions*.
+    * [ ] Listening - About You   _(page 5)_ 📚
+      - **Listening** for fact, speaker attitude, relationship.
+      - **Warning** and **advice**.
+        - [*Had better*](https://en.wikipedia.org/wiki/English_modal_verbs#ought) Recycling/using familiar verb forms, prepositions, modifiers, inversion, conditioners.
   * #### Connected by Technology👨🏻‍💻
     - [ ] Ask for clarification and confirm Discuss using technology for communication Talk about personality characteristics.
     - [ ] [**Auxiliary verbs**](https://en.wikipedia.org/wiki/Auxiliary_verb): do, have, be The comparative and superlative Needs to be done; have/get something done Past participles as adjectives.
@@ -24,4 +31,5 @@ To make the learning of English fun, motivating, and success-oriented by way of 
     - [ ] Syllable stress on numbers.
     - [ ] Amazing Internet Connections.
     - [ ] Write an essay comparing ways of socializing and state your preference Write about and evaluate things you can do on the Internet **(Project)**.
+***
 * ### WEEK02
