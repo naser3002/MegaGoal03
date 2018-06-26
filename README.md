@@ -14,7 +14,7 @@ To make the learning of English fun, motivating, and success-oriented by way of 
 ## Contents
 * ### WEEK01
   * #### Intro 😁🎉
-    - [ ] Listen and Discuss   _(page 2)_
+    - [x] Listen and Discuss   _(page 2)_
       - **Express** opinion, feeling and preference
     - [ ] Pair Work   _(page 3)_
       - **Agree** and **disagree** with other people ideas or opinions.
