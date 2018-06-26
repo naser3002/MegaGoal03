@@ -33,3 +33,5 @@ To make the learning of English fun, motivating, and success-oriented by way of 
     - [ ] Write an essay comparing ways of socializing and state your preference Write about and evaluate things you can do on the Internet **(Project)**.
 ***
 * ### WEEK02
+
+#### add your ideas
