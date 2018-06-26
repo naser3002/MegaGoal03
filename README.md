@@ -16,7 +16,7 @@ To make the learning of English fun, motivating, and success-oriented by way of 
   * #### Intro 😁🎉
     - [x] Listen and Discuss   _(page 2)_
       - **Express** opinion, feeling and preference
-    - [ ] Pair Work   _(page 3)_
+    - [x] Pair Work   _(page 3)_
       - **Agree** and **disagree** with other people ideas or opinions.
     - [ ] Conversation   _(page 4)_
       - Ask for and give *information* and *instructions*.
