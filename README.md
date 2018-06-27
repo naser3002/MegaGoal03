@@ -1,6 +1,8 @@
 # MegaGoal 3, summer class 2018
 > #### Done By Abdulaziz Muhammed Al Bidani
 
+#### [slack channel](https://schoolaqiq.slack.com/messages/DBE86C015/)
+
 <div align="center">
   <img alt="react-sketchapp" src="http://ancosanvcc.com/wp/wp-content/uploads/2015/12/head-love-learning.png" style="max-height:163px; width:100; height: auto; max-width:100%" />
 </div>
