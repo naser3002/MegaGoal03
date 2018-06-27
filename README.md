@@ -18,7 +18,7 @@ To make the learning of English fun, motivating, and success-oriented by way of 
       - **Express** opinion, feeling and preference
     - [x] Pair Work   _(page 3)_
       - **Agree** and **disagree** with other people ideas or opinions.
-    - [x] Conversation   _(page 4)_ #### Saqer-Sultan-Abdulelah Abdullah - Raian
+    - [x] Conversation   _(page 4)_ _Saqer-Sultan-Abdulelah Abdullah - Raian_
       - Ask for and give *information* and *instructions*.
     * [ ] Listening - About You   _(page 5)_
       - **Listening** for fact, speaker attitude, relationship.
