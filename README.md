@@ -27,7 +27,8 @@ To make the learning of English fun, motivating, and success-oriented by way of 
       - **Warning** and **advice**.
         - [*Had better*](https://en.wikipedia.org/wiki/English_modal_verbs#ought) Recycling/using familiar verb forms, prepositions, modifiers, inversion, conditioners.
   * #### Connected by Technology👨🏻‍💻
-    - [ ] Ask for clarification and confirm Discuss using technology for communication Talk about personality characteristics.
+    - [x] Ask for clarification and confirm Discuss using technology for communication Talk about personality characteristics.
+    _(All students but - naif and Ahmed Jmaan)_
     - [ ] [**Auxiliary verbs**](https://en.wikipedia.org/wiki/Auxiliary_verb): do, have, be The comparative and superlative Needs to be done; have/get something done Past participles as adjectives.
     - [ ] Listen for specific details about a cell phone bill.
     - [ ] Syllable stress on numbers.
