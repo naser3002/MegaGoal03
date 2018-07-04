@@ -31,6 +31,7 @@ To make the learning of English fun, motivating, and success-oriented by way of 
     _(All students but - naif and Ahmed Jmaan)_
 ***
 * ### WEEK02
+  * #### Connected by Technology👨🏻‍💻
     - [x] [**Auxiliary verbs**](https://en.wikipedia.org/wiki/Auxiliary_verb): do, have, be The comparative and superlative Needs to be done; have/get something done Past participles as adjectives.
     - [x] Listen for specific details about a cell phone bill.
     - [x] Syllable stress on numbers.
@@ -41,6 +42,7 @@ To make the learning of English fun, motivating, and success-oriented by way of 
     - [ ]  The passivePast perfect and past perfect progressive Simple past tense: be, regular and irregular verbs Used to and would Past progressive tense.
 ***
 * ### WEEK03
+  * #### Crime Doesn’t Pay 👨🏻‍✈️ 🕵🏻‍♂️
     - [ ] Listen for specific details in a lecture on safety.
     - [ ] Linking adjacent consonant sounds.
     - [ ] Crime Puzzles.
