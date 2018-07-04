@@ -29,12 +29,21 @@ To make the learning of English fun, motivating, and success-oriented by way of 
   * #### Connected by Technology👨🏻‍💻
     - [x] Ask for clarification and confirm Discuss using technology for communication Talk about personality characteristics.
     _(All students but - naif and Ahmed Jmaan)_
-    - [ ] [**Auxiliary verbs**](https://en.wikipedia.org/wiki/Auxiliary_verb): do, have, be The comparative and superlative Needs to be done; have/get something done Past participles as adjectives.
-    - [ ] Listen for specific details about a cell phone bill.
-    - [ ] Syllable stress on numbers.
-    - [ ] Amazing Internet Connections.
-    - [ ] Write an essay comparing ways of socializing and state your preference Write about and evaluate things you can do on the Internet **(Project)**.
 ***
 * ### WEEK02
+    - [x] [**Auxiliary verbs**](https://en.wikipedia.org/wiki/Auxiliary_verb): do, have, be The comparative and superlative Needs to be done; have/get something done Past participles as adjectives.
+    - [x] Listen for specific details about a cell phone bill.
+    - [x] Syllable stress on numbers.
+    - [x] Amazing Internet Connections.
+    - [x] Write an **essay** comparing ways of socializing and state your preference Write about and evaluate things you can do on the Internet **(Project)**.
+  * #### Crime Doesn’t Pay 👨🏻‍✈️ 🕵🏻‍♂️
+    - [ ]  Discuss crime and punishmentRead and discuss newspaper articlesExplain steps in a process.
+    - [ ]  The passivePast perfect and past perfect progressive Simple past tense: be, regular and irregular verbs Used to and would Past progressive tense.
+***
+* ### WEEK03
+    - [ ] Listen for specific details in a lecture on safety.
+    - [ ] Linking adjacent consonant sounds.
+    - [ ] Crime Puzzles.
+    - [ ] Write a story for a newspaper or web article, Research and write about Famous Crimes, Frauds, or Blunders (Project)
 
 #### add your ideas
