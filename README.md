@@ -38,8 +38,8 @@ To make the learning of English fun, motivating, and success-oriented by way of 
     - [x] Amazing Internet Connections.
     - [x] Write an **essay** comparing ways of socializing and state your preference Write about and evaluate things you can do on the Internet **(Project)**.
   * #### Crime Doesn’t Pay 👨🏻‍✈️ 🕵🏻‍♂️
-    - [ ]  Discuss crime and punishmentRead and discuss newspaper articlesExplain steps in a process.
-    - [ ]  The passivePast perfect and past perfect progressive Simple past tense: be, regular and irregular verbs Used to and would Past progressive tense.
+    - [x]  Discuss crime and punishmentRead and discuss newspaper articlesExplain steps in a process.
+    - [x]  The passivePast perfect and past perfect progressive Simple past tense: be, regular and irregular verbs Used to and would Past progressive tense.
 ***
 * ### WEEK03
   * #### Crime Doesn’t Pay 👨🏻‍✈️ 🕵🏻‍♂️
