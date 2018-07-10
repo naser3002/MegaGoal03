@@ -43,9 +43,12 @@ To make the learning of English fun, motivating, and success-oriented by way of 
 ***
 * ### WEEK03
   * #### Crime Doesn’t Pay 👨🏻‍✈️ 🕵🏻‍♂️
-    - [ ] Listen for specific details in a lecture on safety.
-    - [ ] Linking adjacent consonant sounds.
-    - [ ] Crime Puzzles.
-    - [ ] Write a story for a newspaper or web article, Research and write about Famous Crimes, Frauds, or Blunders (Project)
+    - [x] Listen for specific details in a lecture on safety.
+    - [x] Linking adjacent consonant sounds.
+    - [x] Crime Puzzles.
+    - [x] Write a story for a newspaper or web article, Research and write about Famous Crimes, Frauds, or Blunders (Project)
 
+  * #### Far and Away 🛳✈️🛩
+    - [ ] Talk about travel experiences and travel dreams. 
+    - [ ] Discuss hotels and services Make and decline special requests Adverbs.
 #### add your ideas
