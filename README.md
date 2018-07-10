@@ -50,5 +50,5 @@ To make the learning of English fun, motivating, and success-oriented by way of 
 
   * #### Far and Away 🛳✈️🛩
     - [ ] Talk about travel experiences and travel dreams. 
-    - [ ] Discuss hotels and services Make and decline special requests Adverbs.
+    - [ ] Discuss hotels and services Make and decline special requests [Adverbs](https://en.wikipedia.org/wiki/Adverb).
 #### add your ideas
