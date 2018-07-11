@@ -49,9 +49,10 @@ To make the learning of English fun, motivating, and success-oriented by way of 
     - [x] Write a story for a newspaper or web article, Research and write about Famous Crimes, Frauds, or Blunders (Project)
 
   * #### Far and Away 🛳✈️🛩
-    - [ ] Talk about travel experiences and travel dreams. 
-    - [ ] Discuss hotels and services Make and decline special requests [Adverbs](https://en.wikipedia.org/wiki/Adverb).
+    - [x] Talk about travel experiences and travel dreams. 
+    - [x] Discuss hotels and services Make and decline special requests [Adverbs](https://en.wikipedia.org/wiki/Adverb).
+    * ##### _Grammar_
+    - [x] [Adverbs](https://en.wikipedia.org/wiki/Adverb) of degree, sentence adverbs , Future with be going to and will lnformation questions.
+    - [ ] Present progeressive.
+
 #### add your ideas
-#Grammar##
-_ ( ) Adverbs of degree, sentence adverbs , Future with be going to and will lnformation questions.
-_ ( ) Present progeressive.
