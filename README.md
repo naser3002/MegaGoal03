@@ -53,6 +53,18 @@ To make the learning of English fun, motivating, and success-oriented by way of 
     - [x] Discuss hotels and services Make and decline special requests [Adverbs](https://en.wikipedia.org/wiki/Adverb).
     * ##### _Grammar_
     - [x] [Adverbs](https://en.wikipedia.org/wiki/Adverb) of degree, sentence adverbs , Future with be going to and will lnformation questions.
-    - [ ] Present progeressive.
+    - [x] Present progeressive.
+    - [x] Adverbs of degreeSentence adverbs Future with be going to and will Information questions Present progressive.
+    - [x] Listen for specific details about packing for a trip.
+    - [x] Stress on compound nouns.
+ ***
+ * ### WEEK04
+  * #### Far and Away
+    - [x] Ecotourism: See the World While Saving It.
+    - [x] Write about Ecotourism.
+  * #### -----------------------EXPANTION 1-3 ---------------
+  * #### TV around the world
+    - [x] Discuss types of TV programs Express and explain preferences Express certainty Talking about festivals.
+    - [x] Direct and indirect [objects](https://en.wikipedia.org/wiki/Object_(grammar)) To and for before indirect objects ArticlesAdjective clauses and relative pronounsRelative pronouns as subjects and objects.
 
 #### add your ideas
