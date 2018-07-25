@@ -66,15 +66,15 @@ To make the learning of English fun, motivating, and success-oriented by way of 
   * #### TV around the world
     - [x] Discuss types of TV programs Express and explain preferences Express certainty Talking about festivals.
     - [x] Direct and indirect [objects](https://en.wikipedia.org/wiki/Object_(grammar)) To and for before indirect objects ArticlesAdjective clauses and relative pronounsRelative pronouns as subjects and objects.
-    - [ ] Listen for specific information about a game show.
-    - [ ] Reduction of going to and want to.
-    - [ ] Reading: A Brief Overview of the History of Teievision.
-    - [ ] Writing: Write a book review.
+    - [x] Listen for specific information about a game show.
+    - [x] Reduction of going to and want to.
+    - [x] Reading: A Brief Overview of the History of Teievision.
+    - [x] Writing: Write a book review.
     ***
 * ### WEEK05
  * #### Working 9 to 5
-    - [ ] Talk about jobs ask for favors,make requests and ask for informatio Express obligation,necessity and lack of necessity.
-    - [ ] Subjunctive l'd like you + infinitive / I Want you + infinitive Tag questions.
+    - [x] Talk about jobs ask for favors,make requests and ask for informatio Express obligation,necessity and lack of necessity.
+    - [ ] [Subjunctive](https://en.wikipedia.org/wiki/Subjunctive_mood) l'd like you + [infinitive](https://en.wikipedia.org/wiki/Infinitive) / I Want you + infinitive Tag questions.
     - [ ] Listen for specific information about a survey on job satisfaction.
     - [ ] Syllable stress on words ending with-tion,-cian and -sion.
     
