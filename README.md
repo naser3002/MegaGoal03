@@ -69,5 +69,13 @@ To make the learning of English fun, motivating, and success-oriented by way of 
     - [ ] Listen for specific information about a game show.
     - [ ] Reduction of going to and want to.
     - [ ] Reading: A Brief Overview of the History of Teievision.
-
-#### add your advice
+    - [ ] Writing: Write a book review.
+    ***
+* ### WEEK05
+ * #### Working 9 to 5
+    - [ ] Talk about jobs ask for favors,make requests and ask for informatio Express obligation,necessity and lack of necessity.
+    - [ ] Subjunctive l'd like you + infinitive / I Want you + infinitive Tag questions.
+    - [ ] Listen for specific information about a survey on job satisfaction.
+    - [ ] Syllable stress on words ending with-tion,-cian and -sion.
+    
+#### add your idea
