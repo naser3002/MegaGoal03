@@ -75,7 +75,13 @@ To make the learning of English fun, motivating, and success-oriented by way of 
  * #### Working 9 to 5
     - [x] Talk about jobs ask for favors,make requests and ask for informatio Express obligation,necessity and lack of necessity.
     - [ ] [Subjunctive](https://en.wikipedia.org/wiki/Subjunctive_mood) l'd like you + [infinitive](https://en.wikipedia.org/wiki/Infinitive) / I Want you + infinitive Tag questions.
+    - [ ] conversation P=72
     - [ ] Listen for specific information about a survey on job satisfaction.
     - [ ] Syllable stress on words ending with-tion,-cian and -sion.
-    
+    - [ ] Reading: you Do What for a Living
+    - [ ] Writing: Write about an unusual job that you might like to have + Great jobs and careers (PROJECT)
+    * ###WEEK06
+    *###GOING GREEN👨🏼‍🌾🌍 
+    - [ ] Evaluate how “green” you are Discuss ways to be environmentally responsible Make suggestions
+    - [ ] Gerunds after verbs Infinitives after verbs
 #### add your idea
